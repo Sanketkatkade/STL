@@ -20,6 +20,7 @@ int main(){
         cin>>s;
         m[s]++;
     }
+    
     int q;
     cin>>q;
     while(q--){
